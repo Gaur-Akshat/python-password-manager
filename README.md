@@ -1,1 +1,1 @@
-# python-password-manager
+pip freeze > requirementss.txt
